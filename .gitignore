@@ -1,0 +1,5 @@
+/venv
+/demomedia
+/__pycache__
+/cfg.py
+/botuploads.db
